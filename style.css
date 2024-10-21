@@ -1,0 +1,20 @@
+*{
+    padding: 0;
+}
+
+.style1 new1{
+    background-color: rgb(0, 255, 166);
+}
+body{
+    color: purple;
+}
+div{
+    background-color: currentColor;
+    background-color: orange;
+    padding: 15px;
+    border: 10px solid currentColor;
+    box-shadow: 1px 1px 20px currentColor;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    height: 50px;
+
+}
